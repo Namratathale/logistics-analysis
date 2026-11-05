@@ -1,0 +1,7 @@
+# large or licensed data stays out of Git
+data/raw/*.csv
+data/processed/*.csv
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
