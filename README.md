@@ -45,5 +45,5 @@ logistics-analysis/
 ```
 
 ## Author
-[Your name], Logistics Data Analyst Intern
+Namrata Thale, Logistics Data Analyst Intern
 "# logistics-analysis" 
